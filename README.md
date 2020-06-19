@@ -7,6 +7,6 @@ You must have sudo privileges to run the script.
 
 No need for installation, just make sure the layout.ui is in the same folder of main.py.
 
-#How to use it
+# How to use it
 
 Just a slider and two buttons. No need to explain.
